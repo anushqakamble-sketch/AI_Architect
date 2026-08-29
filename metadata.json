@@ -1,0 +1,6 @@
+{
+  "name": "AI Learning Guide",
+  "description": "An interactive step-by-step learning platform for building AI chatbots, RAG systems, and autonomous agents with tailored curriculums, visual flows, and interactive code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
